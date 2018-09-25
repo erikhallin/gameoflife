@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1514418702 source:d:\cpp\gameoflife\main.cpp
+	<windows.h>
+	<vector>
+	<ctime>
+	<stdlib.h>
+	<gl/gl.h>
+
